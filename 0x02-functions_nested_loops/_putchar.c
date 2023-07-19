@@ -1,13 +1,13 @@
-#include "main.h"
+include "main.h"
 
 /**
  * main - Entry point
- * Description - 'prints _putchar to stdout'
- * Return: always 0
+ * Description:'prints _putchar to stdout'
+ * Return: Always 0
  */
 int main(void)
 {
-	_putchar('-');
+	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
